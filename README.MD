@@ -1,5 +1,6 @@
 # About waec-result-analyzer
 
+# Special Credit to an amazing developer/mentor [WEAC](https://github.com/Kolaposki)
 
 A python script that fetches the grades of a student from a [WAEC](https://www.waecdirect.org/) result in pdf format.
 Built for Federal Government College, Warri, Delta State. 
